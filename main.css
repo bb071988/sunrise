@@ -1,4 +1,13 @@
 
+@media screen and (max-width: 600px) {
+    body {
+        background-color:lightblue;
+    }
+} /* added media query for screen size*/
+
+
+
+
 
 * {background-color:#FFEEDB;
 }
